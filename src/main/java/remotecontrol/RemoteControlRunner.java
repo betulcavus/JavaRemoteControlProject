@@ -9,7 +9,6 @@ public class RemoteControlRunner {
         System.out.println(tv.kanalDegistirme(2));//45.23
         System.out.println(tv.sesAzaltma());//11
         System.out.println(tv.sesArtirma());//12
-
     }
 
 }
